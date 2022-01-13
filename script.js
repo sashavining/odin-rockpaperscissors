@@ -6,7 +6,7 @@ var computerChoices = [
 
 function playSingleRound () {
     let computerPlay = computerChoices[Math.floor(Math.random()*computerChoices.length)]
-    let userPlay = prompt("What is your selection: rock, paper, or scissors?", "")
+    let userPlay = prompt("Welcome to the game! What is your selection? (Input: 'rock', 'paper', or 'scissors'", "")
     userPlay.toLowerCase();
 
     if (userPlay === "rock") {
