@@ -2,8 +2,7 @@
 
 An app that plays Rock/Paper Siccors!
 
-<img src="https://watch.screencastify.com/v/bdL8x4wSM5Y5ga6voZzc">
-
+<img src="https://ibb.co/n1vLGvJ">
 
 ## How It's Made:
 
