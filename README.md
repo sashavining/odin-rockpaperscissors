@@ -1,16 +1,21 @@
 # odin-rockpaperscissors
 
-A rock paper scissors app that I created for the Project:Rock Paper Scissors on https://www.theodinproject.com/
+An app that plays Rock/Paper Siccors!
+
+<img src="https://watch.screencastify.com/v/bdL8x4wSM5Y5ga6voZzc">
+
 
 ## How It's Made:
 
 I made this project to test my knowledge after learning some very basic operators in JavaScript. I had also learned about variables and functions.
 
+I then re-visted it after I had learned about how to modify the DOM with Javascript.
+
 **Tech used:** JavaScript
 
 ## Optimizations
 
-Now that I have learned arrays and loops, I would use arrays and loops to solve this problem instead. 
+Looking at other peoples' solutions on the Odin Project website, I may have included a clearer visual cue for what the computer plays each turn. The flavor text is pretty small and easy to miss. Otherwise, I am pretty happy with how this came out.
 
 ## Lessons Learned:
 
