@@ -1,0 +1,76 @@
+/* Setting up background colors and div styles*/
+/* color palette:
+#131917
+#2d424a
+#5f6468
+#b4786b
+#612a11 */
+
+body {
+    background-color:#2d424a;
+}
+header{
+    display:flex;
+    justify-content: center;
+}
+.gameplayWindow{
+    background-color: rgba(255, 255, 255, 0.726);
+    border-left: 10px solid #b4786b;
+    border-right: 10px solid #b4786b;
+    border-radius:5px;
+    padding-bottom:50px;
+}
+
+.container{
+    display:flex;
+    justify-content: center;;
+}
+.choices{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom:50px;
+    
+}
+
+.gameplayWindow{
+    width:70%;
+    padding-top:20px;
+    }
+
+/* Setting up fonts */
+
+.scores{
+    font-family: 'Bebas Neue', 'Futura', sans-serif;
+    color:#612a11;
+    display:flex;
+    justify-content: space-around;
+}
+
+/* Image properties */
+
+#rock, #paper, #scissors{
+    width:150px;
+    height:150px;
+}
+
+#rock:hover, #paper:hover, #scissors:hover{
+    opacity:.5;
+}
+
+.resultBox{
+    display:flex;
+    justify-content: center;
+}
+.roundFlavorText{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#computerScore, #playerScore{
+    font-size:30px;
+    color:#b4786b;
+}
+
+.playerScoreBox, .computerScoreBox{
+    padding:30px;
+    text-align:center;
+}

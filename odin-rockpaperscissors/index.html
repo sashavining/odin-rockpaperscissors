@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <title>Landing Page</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+       
+    <body>
+        <header>
+            <img src="./logo.png" alt="logo" class="logo">
+        </header>
+        <div class="container">
+            <div class="gameplayWindow">
+    
+                <div class="choices">
+                   
+                    <img src="./rock.png" id="rock" class="rock">
+                    <img src="./paper.png" id="paper" class ="paper">
+                    <img src="./scissors.png" id="scissors" class ="scissors">
+                </div>
+                <div class="resultBox">
+                    <span id="roundFlavorText">What's it going to be: rock, paper, or scissors? First to five wins!</span>
+                </div>
+                <div class="scores">
+                    <div class="computerScoreBox">
+                        <h2>COMPUTER</h2>
+                        <span id="computerScore">0</span>
+
+                    </div>
+
+                    <div class="playerScoreBox">
+                         <h2>PLAYER</h2>
+                         <span id="playerScore">0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    
+    <script src="script.js"></script>
+</html>
