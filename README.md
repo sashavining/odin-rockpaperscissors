@@ -2,7 +2,7 @@
 
 An app that plays Rock/Paper Siccors!
 
-![alt text](https://ibb.co/n1vLGvJ)
+![alt text](https://i.ibb.co/M14Cv40/Landing-Page.gif)
 
 ## How It's Made:
 
