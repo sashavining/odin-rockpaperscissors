@@ -1,6 +1,6 @@
 # odin-rockpaperscissors
 
-An app that plays Rock/Paper Siccors!
+An app that plays Rock/Paper Scissors!
 
 ![Landing Page Gif](https://i.ibb.co/M14Cv40/Landing-Page.gif)
 
